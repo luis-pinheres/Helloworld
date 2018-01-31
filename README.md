@@ -1,22 +1,14 @@
-# Helloworld
-Basic program
-
-// Read and compare names
+# Read and compare names
 
 #include"std_lib_facilities.h"
-
-
 using namespace std;
 
 int main()
  {
 
 cout << "Please enter two names\n";
-
 string first;
-
 string second;
-
 cin >> first >> second;
 
 // read two strings
